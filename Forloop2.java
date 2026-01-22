@@ -20,3 +20,11 @@ public class Forloop2 {
         sc.close();
     }
 }
+
+
+
+
+
+
+
+
