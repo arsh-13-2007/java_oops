@@ -16,7 +16,6 @@ public class Forloop2 {
             }
             System.out.println();
         }
-
         sc.close();
     }
 }
